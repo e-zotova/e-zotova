@@ -1,13 +1,5 @@
 ### Привет 👋
 
-<img src="" alt="" width="500">
-
-🦄 Со мной можно связаться через:
-
-- [Telegram](https://t.me/)
-- [LinkedIn](https://www.linkedin.com/)
-
-✉️ Или отправить письмо на [](mailto:)
 
 <!--
 **e-zotova/e-zotova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,4 +14,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<img src="" alt="" width="500">
+
+🦄 Со мной можно связаться через:
+
+- [Telegram](https://t.me/)
+- [LinkedIn](https://www.linkedin.com/)
+
+✉️ Или отправить письмо на [](mailto:)
 -->
