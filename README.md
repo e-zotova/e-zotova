@@ -11,12 +11,12 @@ I'm Elena and after 9 years as a QA engineer I decided to become a web-developer
   
 ## Контакты / Contacts:
 
-🦄 Со мной можно связаться через / You can reach me via:
+🦄 Со мной можно связаться через / You can get in touch on:
 
 - [Telegram](https://t.me/)
 - [LinkedIn](https://www.linkedin.com/)
 
-📫 Или отправить письмо на / Or send an email to: [elena@gmail.com](mailto:elena@gmail.com)
+📫 Или отправить письмо на / Or send me an email at [elena@gmail.com](mailto:elena@gmail.com)
 
 
 <!--
