@@ -13,10 +13,10 @@ I'm Elena and after 9 years as a QA engineer I decided to become a web-developer
 
 🦄 Со мной можно связаться через / You can get in touch on:
 
-- [Telegram](https://t.me/)
-- [LinkedIn](https://www.linkedin.com/)
+- [Telegram](https://t.me/ezotova)
+- [LinkedIn](https://www.linkedin.com/in/ezotova/)
 
-📫 Или отправить письмо на / Or send me an email at [elena@gmail.com](mailto:elena@gmail.com)
+📫 Или отправить письмо на / Or send me an email at [elena.ztv@gmail.com](mailto:elena.ztv@gmail.com)
 
 
 <!--
