@@ -13,12 +13,6 @@
 
 ✉️ Или отправить письмо на [](mailto:)
 
-## Статистика
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=e-zotova&layout=compact&hide=Jupyter+Notebook&hide_progress=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Codewars Badge](https://www.codewars.com/users/e-zotova/badges/large)](https://www.codewars.com/users/e-zotova)
-
 
 <!--
 **e-zotova/e-zotova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
