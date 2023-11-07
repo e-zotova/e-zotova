@@ -18,6 +18,7 @@ I'm Elena and I decided to become a web-developer after 9 years as a QA engineer
 
 📫 Или отправить письмо на / Or send me an email at [elena.ztv@gmail.com](mailto:elena.ztv@gmail.com)
 
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ezotova&theme=transparent&hide_border=true&layout=compact&langs_count=6&)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **e-zotova/e-zotova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
