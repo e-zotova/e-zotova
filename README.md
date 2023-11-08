@@ -2,11 +2,11 @@
 
 Меня зовут Елена и я решила перейти в веб-разработку после 9 лет в тестировании.
 
-- 🔭 Сейчас участвую в качестве фронтенд-разработчика в проекте по поиску менторов для начинающих специалистов в рамках Акселератора Яндекс Практикума
+- 🔭 Сейчас участвую в качестве фронтенд-разработчика в проекте по поиску менторов для начинающих специалистов в команде, собранной Акселератором Яндекс Практикума
 - 🌱 Продолжаю осваивать веб-разработку, JS и фреймворки
 
 I'm Elena and I decided to become a web-developer after 9 years as a QA engineer.
-- 🔭 I am currently participating as a frontend developer in a project to find mentors for mentees within the Yandex Practicum Accelerator
+- 🔭 I am currently participating as a frontend developer in a project to find mentors for mentees in a team assembled by the Yandex Practicum Accelerator
 - 🌱 I continue to master web development, JS and frameworks
   
 ## Контакты / Contacts:
