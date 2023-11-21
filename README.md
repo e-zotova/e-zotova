@@ -5,7 +5,7 @@
 - 🔭 Сейчас помогаю в качестве фронтенд-разработчика в работе над проектом по поиску менторов в команде, собранной Акселератором Яндекс Практикума
 - 🌱 Продолжаю осваивать веб-разработку, JS и фреймворки
 
-I'm Elena and I decided to become a web-developer after 9 years as a QA engineer.
+I'm Elena and I decided to become a web-developer after 8 years as a QA engineer.
 - 🔭 I am currently helping as a frontend developer on a project to find mentors in a team assembled by the Yandex Practicum Accelerator
 - 🌱 I continue to master web development, JS and frameworks
   
