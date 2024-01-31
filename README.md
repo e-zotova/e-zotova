@@ -7,6 +7,7 @@
 - Продолжаю осваивать веб-разработку, TypeScript, React
 - В планах изучить Vue
 
+
 🔭 I'm Elena and I decided to become a frontend-developer after 8 years as a QA engineer.
 - I am currently helping as a frontend developer on a project to find mentors in a team assembled by the Yandex Practicum Accelerator
 - Got 1st place in the cross-functional hackathon for the “Development Tracker” interface development for Yandex Practicum internal service
