@@ -2,16 +2,16 @@
 
 Меня зовут Елена и после 8 лет в тестировании я решила перейти во фронтенд-разработку.
 
-- 🔭 Сейчас помогаю в работе над проектом по поиску менторов в качестве фронтенд-разработчика в команде, собранной Акселератором Яндекс Практикума
-- 🚀 1 место в кросс-функциональном хакатоне по разработке интерфейса внутреннего сервиса “Трекер развития” Яндекс Практикума
-- 🧠 Продолжаю осваивать веб-разработку, TypeScript, React
-- 🌱 В планах изучить Vue
+- Сейчас помогаю в работе над проектом по поиску менторов в качестве фронтенд-разработчика в команде, собранной Акселератором Яндекс Практикума
+- 1 место в кросс-функциональном хакатоне по разработке интерфейса внутреннего сервиса “Трекер развития” Яндекс Практикума
+- Продолжаю осваивать веб-разработку, TypeScript, React
+- В планах изучить Vue
 
 I'm Elena and I decided to become a frontend-developer after 8 years as a QA engineer.
-- 🔭 I am currently helping as a frontend developer on a project to find mentors in a team assembled by the Yandex Practicum Accelerator
-- 🚀 Got 1st place in the cross-functional hackathon for the “Development Tracker” interface development for Yandex Practicum internal service
-- 🧠 I continue to master web development, TypeScript, React
-- 🌱 I have plans to master Vue as well
+- I am currently helping as a frontend developer on a project to find mentors in a team assembled by the Yandex Practicum Accelerator
+- Got 1st place in the cross-functional hackathon for the “Development Tracker” interface development for Yandex Practicum internal service
+- I continue to master web development, TypeScript, React
+- I have plans to master Vue as well
   
 ## Контакты / Contacts:
 
